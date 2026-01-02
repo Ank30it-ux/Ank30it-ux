@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  🚀 MERN Stack Developer | React • Node • MongoDB • Express
+  🚀 Open-Source Developer • Software Explorer • Tech Learner | React • Node • MongoDB • Express
 </h3>
 
 <p align="center">
